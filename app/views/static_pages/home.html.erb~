@@ -10,7 +10,6 @@
       <p>
         <%= link_to 'New thesis', new_thesis_path, class: 'btn btn-primary btn-large' if professor? %>
       </p>
-	<h2> Por aca pasaron los de CupiCoordinador </h2>
     </div>
   </div>
   <div class="span4 text-center">
